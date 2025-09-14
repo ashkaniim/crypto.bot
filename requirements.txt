@@ -1,14 +1,14 @@
-<<<<<<< HEAD
+HEAD
 pyTelegramBotAPI
 pandas
 numpy
 flask
 requests
 python-telegram-bot
-=======
+
 pyTelegramBotAPI
 pandas
 numpy
 flask
 requests
->>>>>>> 15a4b9946f46e93c5bd9b02359de0b1bb3f80a4d
+15a4b9946f46e93c5bd9b02359de0b1bb3f80a4d
