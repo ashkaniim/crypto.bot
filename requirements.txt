@@ -11,4 +11,3 @@ pandas
 numpy
 flask
 requests
-15a4b9946f46e93c5bd9b02359de0b1bb3f80a4d
