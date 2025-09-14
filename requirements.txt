@@ -1,4 +1,4 @@
-HEAD
+
 pyTelegramBotAPI
 pandas
 numpy
